@@ -3,4 +3,4 @@ mapMain.on("extent-change",function(getCenter){
         console.log(centerLocation.getLatitude());
         console.log(centerLocation.getLongitude());
 		});
-test
+test!!
